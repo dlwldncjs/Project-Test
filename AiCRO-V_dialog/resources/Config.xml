@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ACViewerCongig>
+	<Ini>
+		<StandAlone>true</StandAlone>
+		<MouseMode>
+			2
+			</MouseMode>
+			<WindowCenter>50</WindowCenter>
+			<WindowWidth>400</WindowWidth>
+	</Ini>
+	<WindowPreset>
+	<Crtl1>200,1000</Crtl1>
+	<Crtl2>31,95</Crtl2>
+	<Crtl3>109,84</Crtl3>
+	<Crtl4>-700,1500</Crtl4>
+	
+	
+	
+	</WindowPreset>
+	<ROIButton>
+		<OvalROI>false</OvalROI>
+		<DistanceROI>false</DistanceROI>
+		<AngleROI>
+			false
+		</AngleROI>
+		<ROILimit>1</ROILimit>
+	</ROIButton>
+	<Font>
+	<Size>12</Size>
+	</Font>
+
+</ACViewerCongig>
